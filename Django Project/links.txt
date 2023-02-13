@@ -1,0 +1,4 @@
+1.
+http://localhost:8000/admin/login/?next=/admin/
+2.
+http://localhost:8000/app/
